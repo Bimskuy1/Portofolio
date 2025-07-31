@@ -27,7 +27,7 @@ This is my Portofolio
 
   <main class="hero">
     <div class="text-section">
-      <h1>Hi, I'm <span class="typing"></span></h1>
+      <h1>Hi, I'm Bimma Wahyu Makarim <span class="typing"></span></h1>
       <p>
         Saya seorang mahasiswa <strong> Ahli di bidang Blogger dan frontend developer </strong>, mampu bekerja dengan tim.
       </p>
