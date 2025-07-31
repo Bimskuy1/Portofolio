@@ -318,7 +318,7 @@
       <i class="fab fa-youtube"></i>
     </a>
     <a href="#" class="social-link linkedin" aria-label="LinkedIn">
-      <i class="www.linkedin.com/in/bimma-wahyu-makarim-2259292ba"></i>
+    <a href="https://www.linkedin.com/in/bimma-wahyu-makarim-2259292ba">
     </a>
   </div>
 </div>
